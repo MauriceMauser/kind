@@ -1,2 +1,2 @@
-# kind
-K I N D: Über Leben und Lieben
+# K I N D
+Über Leben und Lieben
